@@ -1,0 +1,41 @@
+sector,descripcion,empleo
+s1,Agriculture and forestry,4903.0
+s2,Hunting and fishing,1846.0
+s3,Mining (energy),0.0
+s4,Mining (non-energy),39.0
+s5,Meat and meat dairy milk,6480.0
+s6,"Grinding, baking and pasta",11497.0
+s7,Sugar and confectionery products,4997.0
+s8,Other food products,9687.0
+s9,Drinks,4244.0
+s10,Snuff products,22.0
+s11,Textiles,24537.0
+s12,Garments,20935.0
+s13,Footwear,13861.0
+s14,Wood and products of wood and cork,3410.0
+s15,"Pulp, paper, paper, printing and publishing",18900.0
+s16,"Coke, refined petroleum and nuclear fuel",6125.0
+s17,Basic chemicals,1107.0
+s18,Other chemicals (excluding pharmaceuticals),9630.0
+s19,Pharmaceutical,5399.0
+s20,Rubber and plastic,12842.0
+s21,Nonmetallic minerals,7928.0
+s22,Iron and Steel,2117.0
+s23,Non-ferrous metals,544.0
+s24,Metal fabricated metal products (excluding machinery and equipment),8265.0
+s25,Machinery and equipment (excluding (excluding electrical machinery),5140.0
+s26,Office equipment (including computer equipment),68.0
+s27,Machinery and electrical appliances,2275.0
+s28,"Radio, television and telecommunications equipment team",187.0
+s29,Optical medical equipment and precision instruments,14135.0
+s30,"Motor vehicles, trailers and semi-trailers",284.0
+s31,Aircraft,2745.0
+s32,Other transport equipment transport,1711.0
+s33,"Other articles: recycling, furniture and other",21497.0
+s34,"Electricity, gas and water water",3773.0
+s35,Construction,22294.0
+s36,Transport,26050.0
+s37,Post and telecommunications,1713.0
+s38,Finance and insurance,32414.0
+s39,Services to businesses of all kinds,127757.0
+s40,Other services,409021.0
