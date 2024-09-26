@@ -1,0 +1,2 @@
+# CEPAL IOT. Multiplicadores de Empleo para El Salvador
+Repositorio de los pogramas que calculan los multiplicadores de empleo para El Salvador mediante la Matriz Insumo Producto Interregional de 2014 de CEPAL
